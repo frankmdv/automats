@@ -1,0 +1,5 @@
+automata-lib==7.1.0
+frozendict==2.3.5
+networkx==3.0
+pydot==1.4.2
+pyparsing==3.0.9
